@@ -84,7 +84,7 @@ These conventions are documented here.
 
 * Differences in the language by which edition the crate is compiled under are in a blockquote that start with the words "Edition Differences:" in **bold**.
 
-  > **Edition Differences**: In the 2015 edition, this syntax is valid that is disallowed as of the 2018 edition.
+  > **Edition Differences**: This syntax is valid in the 2015 edition, but it is disallowed as of the 2018 edition.
 
 * Notes that contain useful information about the state of the book or point out useful, but mostly out of scope, information are in blockquotes that start with the word "Note:" in **bold**.
 
@@ -123,8 +123,8 @@ These conventions are documented here.
 We welcome contributions of all kinds.
 
 You can contribute to this book by opening an issue or sending a pull request to [the Rust Reference repository].
-If this book does not answer your question, and you think its answer is in scope of it, please do not hesitate to [file an issue] or ask about it in the `t-lang/doc` stream on [Zulip].
-Knowing what people use this book for the most helps direct our attention to making those sections the best that they can be.
+If this book does not answer your question, and you think the answer to your question is in the scope of the book, please do not hesitate to [file an issue] or ask about it in the `t-lang/doc` stream on [Zulip].
+Understanding how people use this book helps us direct our attention toward improving the sections that are most important to readers.
 We also want the reference to be as normative as possible, so if you see anything that is wrong or is non-normative but not specifically called out, please also [file an issue].
 
 [book]: ../book/index.html
